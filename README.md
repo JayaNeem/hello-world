@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-I am jaya.
+I am jaya from indore.
